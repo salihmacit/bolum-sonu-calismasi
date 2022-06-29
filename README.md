@@ -1,2 +1,1 @@
-# bolum-sonu-calismasi
-bölüm sonu çalışması
+![image]https://github.com/salihmacit/bolum-sonu-calismasi/blob/main/img/Screenshot_2.png
